@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nestlé</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        article {
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nestlé</h1>
+    </header>
+    <article>
+        <h2>Quiénes somos</h2>
+        <p>Nestlé es la mayor compañía de alimentos y bebidas del mundo. Fundada en 1866 por Henri Nestlé, nuestra misión es mejorar la calidad de vida y contribuir a un futuro más saludable. Ofrecemos productos y servicios de calidad para todas las etapas de la vida, cada momento del día.</p>
+    </article>
+    <article>
+        <h2>Nuestra visión</h2>
+        <p>Nos esforzamos por liderar en innovación y sostenibilidad, creando valor compartido para la sociedad y nuestros accionistas. Nos comprometemos a ser una fuerza positiva, mejorando la vida de las personas en todo el mundo.</p>
+    </article>
+    <article>
+        <h2>Nuestros productos</h2>
+        <p>Nuestro amplio portafolio incluye algunas de las marcas más conocidas a nivel mundial, como Nescafé, KitKat, Purina, Maggi y muchas más, abarcando categorías como lácteos, café, alimentos para mascotas, nutrición infantil, y cuidado de la salud.</p>
+    </article>
+    <footer>
+        <p>Visita <a href="https://www.nestle.com">www.nestle.com</a> para más información.</p>
+    </footer>
+</body>
+</html>
